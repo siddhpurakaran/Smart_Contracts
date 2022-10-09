@@ -1,0 +1,29 @@
+{
+  "name": "smart_contracts",
+  "version": "1.0.0",
+  "description": "Project containing smart contracts written by me with tests and other utilities",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhpurakaran/Smart_Contracts.git"
+  },
+  "keywords": [
+    "Smart",
+    "Contracts",
+    "Hardhat",
+    "Solidity"
+  ],
+  "author": "Karan Siddhpura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhpurakaran/Smart_Contracts/issues"
+  },
+  "homepage": "https://github.com/siddhpurakaran/Smart_Contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  }
+}
